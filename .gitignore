@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Migrations (optional: keep if you want to version-control DB schema)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Secret keys, etc.
+*.env
+
+# Coverage / test output
+htmlcov/
+coverage.xml
+*.cover
+
+# Compiled static files (optional)
+static/
+
+# Node (if using for front)
+node_modules/
