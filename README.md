@@ -21,8 +21,8 @@ This is a web-based implementation of the classic card game "Doubt" (also known 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/doubt-game.git
-   cd doubt-game
+   git clone https://github.com/jeonghyunje/Doubt.git
+   cd Doubt
    ```
 
 2. Set up virtual environment (optional but recommended):
@@ -47,4 +47,4 @@ Then open your browser to `http://127.0.0.1:8000/`.
 
 ## 📄 License
 
-MIT License © 2025 [jeonghyunje]
+KNU License © 2025 [jeonghyunje]
