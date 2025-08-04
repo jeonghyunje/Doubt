@@ -12,7 +12,7 @@ This is a web-based implementation of the classic card game "Doubt" (also known 
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Django 4.x
+- **Backend**: Django 5.2.4
 - **Frontend**: Django Templates + HTML/CSS/JavaScript
 - **Database**: SQLite (default)
 - **Version Control**: Git + GitHub
